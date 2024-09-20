@@ -1,7 +1,7 @@
 :root {
   --white: #fff;
   --light-grey: #f5f6f7;
-  --dark-grey: #0a0a23;
+  --dark-grey: #4682b4;
   --yellow: #f1be32;
   --golden-yellow: #feac32;
 }
@@ -49,7 +49,7 @@ h1 {
   margin: 10px;
   color: var(--dark-grey);
   background-color: var(--golden-yellow);
-  background-image: linear-gradient(#fecc4c, #ffac33);
+  background-image: linear-gradient(#fecc4c, #032b44);
   border-color: var(--golden-yellow);
   border-width: 3px;
 }
